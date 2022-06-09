@@ -1,0 +1,12 @@
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe.config
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.pdb
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.csprojResolveAssemblyReference.cache
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.exe
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.pdb
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe.config
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.exe
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.pdb
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.exe
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\LatihanPolymorphism.pdb
+C:\K U L Y E A H\Semester 2\Tugas\Pemrograman\21.11.4311\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\LatihanPolymorphism.csprojResolveAssemblyReference.cache
